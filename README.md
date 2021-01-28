@@ -10,7 +10,7 @@ TiKV: https://github.com/tidb-hackathon/tikv
 
 TiDB: https://github.com/tidb-hackathon/tidb
 
-#Applications:
+# Applications:
 
 Kylin: https://github.com/tidb-hackathon/kylin
 
